@@ -1,8 +1,13 @@
-# Linux Commands README
+<h1 align="center">Linux Commands</h1>
+<h3 align="center">Operating Linux becomes easy if you know the right commands</h3>
 
-## Introduction
-
-This README serves as a quick reference guide for commonly used Linux commands. Whether you're a beginner or an experienced user, this document aims to provide concise explanations and examples for various command-line operations in Linux.
+<p align="center">
+<img style="padding:10px;" src="https://img.shields.io/badge/Open%20Source-💕%20-9cf?style=for-the-badge"><br>
+<img style="padding:10px;" src="https://img.shields.io/github/contributors/RaiAbhisekh192005/Linux-Bash-commands?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/forks/RaiAbhisekh192005/Linux-Bash-commands?label=Forks&style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/stars/RaiAbhisekh192005/Linux-Bash-commands?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/license/RaiAbhisekh192005/Linux-Bash-commands?style=flat-square">
+<img style="padding:10px;" src="http://img.shields.io/github/issues/RaiAbhisekh192005/Linux-Bash-commands?style=flat-square">
 
 ## Table of Contents
 
