@@ -95,27 +95,27 @@ sudo: Execute a command as the superuser
  sudo apt-get install package_name
  ```
 
-21. su: Switch user
+su: Switch user
  ```
  su username
  ```
 
-22. df: Report file system disk space usage
+df: Report file system disk space usage
  ```
  df -h
  ```
 
-23. du: Estimate file space usage
+du: Estimate file space usage
  ```
  du -sh directory_name
  ```
 
-24. tar: Manipulate archive files
+tar: Manipulate archive files
  ```
  tar -cvf archive.tar file1 file2
  ```
 
-25. gzip: Compress or decompress files
+gzip: Compress or decompress files
  ```
  gzip file.txt
  ```
