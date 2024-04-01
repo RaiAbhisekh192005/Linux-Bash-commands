@@ -119,3 +119,128 @@ gzip: Compress or decompress files
  ```
  gzip file.txt
  ```
+
+ping: Test a network connection
+ ```
+ ping google.com
+ ```
+
+ifconfig: Configure network interfaces
+ ```
+ ifconfig eth0
+ ```
+
+netstat: Print network connections, routing tables, interface statistics, etc.
+ ```
+ netstat -an
+ ```
+
+hostname: Show or set the system's hostname
+ ```
+ hostname
+ ```
+
+whoami: Print the current user name
+ ```
+ whoami
+ ```
+
+uname: Print system information
+ ```
+ uname -a
+ ```
+
+date: Display or set the system date and time
+ ```
+ date
+ ```
+
+cal: Display a calendar
+ ```
+ cal
+ ```
+
+uptime: Show how long the system has been running
+ ```
+ uptime
+ ```
+
+free: Display amount of free and used memory in the system
+ ```
+ free -m
+ ```
+
+top: Display Linux processes
+ ```
+ top
+ ```
+
+htop: Interactive process viewer
+ ```
+ htop
+ ```
+
+who: Display who is logged on
+ ```
+ who
+ ```
+
+finger: User information lookup program
+ ```
+ finger username
+ ```
+
+w: Show who is logged on and what they are doing
+ ```
+ w
+ ```
+
+history: Display the command history
+ ```
+ history
+ ```
+
+man: Display the manual for a command
+ ```
+ man ls
+ ```
+
+apropos: Search the manual page names and descriptions
+ ```
+ apropos search_term
+ ```
+
+which: Locate a command
+ ```
+ which ls
+ ```
+
+locate: Find files by name
+ ```
+ locate filename
+ ```
+
+updatedb: Update the slocate database
+ ```
+ updatedb
+ ```
+
+clear: Clear the terminal screen
+ ```
+ clear
+ ```
+
+reboot: Reboot the system
+ ```
+ reboot
+ ```
+
+shutdown: Shutdown or restart the system
+ ```
+ shutdown -h now
+ ```
+
+exit: Exit the shell or terminal
+ ```
+ exit
+ ```
