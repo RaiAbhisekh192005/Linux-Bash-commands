@@ -1,3 +1,46 @@
+cd: Change directory
+```
+cd 
+```
+ls: List directory contents
+```
+ls -l
+```
+
+pwd: Print working directory
+```
+pwd
+```
+
+mkdir: Make directory
+```
+mkdir new_folder
+```
+
+rmdir: Remove directory
+```
+rmdir old_folder
+```
+
+touch: Create an empty file
+```
+touch new_file.txt
+```
+
+cp: Copy files or directories
+```
+cp file1.txt file2.txt
+```
+
+mv: Move or rename files or directories
+```
+mv file1.txt new_location/file1.txt
+```
+
+rm: Remove files or directories
+```
+rm [file or directoies name]
+```
 
 less: View file content one page at a time
  ```
