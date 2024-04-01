@@ -44,8 +44,78 @@ Anyone. Absolutely anyone can contribute to this repository. Please check the ru
 6. [Networking](#networking)
 7. [System Information](#system-information)
 
-## Navigating the File System
 
-- **cd**: Change directory
-  ```bash
-  cd [directory]
+less: View file content one page at a time
+ ```
+ less long_file.txt
+ ```
+
+head: Output the first part of files
+ ```
+ head -n 5 file.txt
+ ```
+
+tail: Output the last part of files
+ ```
+ tail -n 10 file.txt
+ ```
+
+grep: Search for patterns in files
+ ```
+ grep "pattern" file.txt
+ ```
+
+find: Search for files and directories
+ ```
+ find . -name "*.txt"
+ ```
+
+chmod: Change file permissions
+ ```
+ chmod 755 file.sh
+ ```
+
+chown: Change file owner and group
+ ```
+ chown user:group file.txt
+ ```
+
+ps: Show process status
+ ```
+ ps aux
+ ```
+
+kill: Terminate processes
+ ```
+ kill PID
+ ```
+
+sudo: Execute a command as the superuser
+ ```
+ sudo apt-get install package_name
+ ```
+
+21. su: Switch user
+ ```
+ su username
+ ```
+
+22. df: Report file system disk space usage
+ ```
+ df -h
+ ```
+
+23. du: Estimate file space usage
+ ```
+ du -sh directory_name
+ ```
+
+24. tar: Manipulate archive files
+ ```
+ tar -cvf archive.tar file1 file2
+ ```
+
+25. gzip: Compress or decompress files
+ ```
+ gzip file.txt
+ ```
