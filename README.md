@@ -244,3 +244,107 @@ exit: Exit the shell or terminal
  ```
  exit
  ```
+chmod: Change file permissions
+ ```
+ chmod +x script.sh
+ ```
+
+chown: Change file owner and group
+ ```
+ chown user:group file.txt
+ ```
+
+chgrp: Change group ownership
+ ```
+ chgrp group_name file.txt
+ ```
+
+ln: Create links between files
+ ```
+ ln -s /path/to/file /path/to/symlink
+ ```
+
+mount: Mount a file system
+ ```
+ mount /dev/sdb1 /mnt/usb
+ ```
+
+umount: Unmount a file system
+ ```
+ umount /mnt/usb
+ ```
+
+df: Display disk space usage
+ ```
+ df -h
+ ```
+
+du: Display directory space usage
+ ```
+ du -sh directory
+ ```
+
+fdisk: Partition table manipulator for Linux
+ ```
+ fdisk /dev/sdb
+ ```
+
+mkfs: Build a Linux filesystem
+ ```
+ mkfs.ext4 /dev/sdb1
+ ```
+
+fsck: Check and repair a Linux filesystem
+ ```
+ fsck /dev/sdb1
+ ```
+
+grep: Search for patterns in files
+ ```
+ grep "pattern" file.txt
+ ```
+
+sed: Stream editor for filtering and transforming text
+ ```
+ sed 's/old/new/' file.txt
+ ```
+
+awk: Pattern scanning and processing language
+ ```
+ awk '{print $1}' file.txt
+ ```
+
+sort: Sort lines of text files
+ ```
+ sort file.txt
+ ```
+
+uniq: Report or omit repeated lines
+ ```
+ uniq file.txt
+ ```
+
+wc: Print newline, word, and byte counts for each file
+ ```
+ wc file.txt
+ ```
+
+diff: Compare files line by line
+ ```
+ diff file1.txt file2.txt
+ ```
+
+tar: Manipulate archive files
+ ```
+ tar -cvf archive.tar file1 file2
+ ```
+
+gzip: Compress or decompress files
+ ```
+ gzip file.txt
+ ```
+
+bzip2: A block-sorting file compressor
+ ```
+ bzip2 file.txt
+ ```
